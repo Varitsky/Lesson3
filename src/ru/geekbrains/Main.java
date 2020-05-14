@@ -1,5 +1,6 @@
 package ru.geekbrains;
 
+
 import java.util.Random;
 import java.util.Scanner;
 
